@@ -1,0 +1,156 @@
+{
+    "pack": {
+        "description": "Minecraft China Ethnic Minority Languages Translation Initiative",
+        "pack_format": 97,
+        "supported_formats": [ 11, 97 ],
+        "min_format": 11,
+        "max_format": [ 97, 1 ]
+    },
+    "language":{
+        "zha_cn":{
+            "name":"§eVahcuengh§r",
+            "region":"§eCungguek§r",
+            "bidirectional": false
+        },
+        "mn_cn":{
+            "name":"§eᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ (ᠦᠢᠭᠣᠷᠵᠢᠨ ᠮᠣᠩᠭᠣᠯ ᠪᠢᠴᠢᠭ)§r",
+            "region":"§eᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ§r",
+            "bidirectional": false
+        },
+        "mnc_cn":{
+            "name":"§eᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ§r",
+            "region":"§eᡩᡠᠯᡳᠮᠪᠠᡳ ᡤᡠᡵᡠᠨ§r",
+            "bidirectional": false
+        },
+        "bca_cn":{
+            "name":"§eBaip ngvp zix§r",
+            "region":"§eJiz cuil, Zhongguo§r",
+            "bidirectional": false
+        },
+        "bfs_cn":{
+            "name":"§eBaip ngvp zix§r",
+            "region":"§eDallit, Zhongguo§r",
+            "bidirectional": false
+        },
+        "bfc_cn":{
+            "name":"§eBaip ngvp zix§r",
+            "region":"§eBijiang, Zhongguo§r",
+            "bidirectional": false
+        },
+        "doc_cn":{
+            "name":"§eGaeml§r",
+            "region":"§eTianzhu, Zhongguo§r",
+            "bidirectional": false
+        },
+        "kmc_cn":{
+            "name":"§eGaeml§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "cng_cn":{
+            "name":"§eRrmearr§r",
+            "region":"§eMawo, Zhongguo§r",
+            "bidirectional": false
+        },
+        "qxs_cn":{
+            "name":"§eRrmearr§r",
+            "region":"§eTaoping, Zhongguo§r",
+            "bidirectional": false
+        },
+        "ium_cn":{
+            "name":"§eIu Mienh§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "shx_cn":{
+            "name":"§eHo Ne§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "evn_cn":{
+            "name":"§eЭвэнкил§r",
+            "region":"§eКитай§r",
+            "bidirectional": false
+        },
+        "khb_cn":{
+            "name":"§eᦅᧄᦺᦑᦟᦹᧉ§r",
+            "region":"§eᦵᦙᦲᧂᦷᦟᦰ§r",
+            "bidirectional": false
+        },
+        "tdd_cn":{
+            "name":"§eᥑᥣᥛᥰ ᥖᥭᥰ ᥘᥫᥴ§r",
+            "region":"§eᥓᥧᥒᥐᥨᥝ§r",
+            "bidirectional": false
+        },
+        "swi_cn":{
+            "name":"§eSui§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "kac_cn":{
+            "name":"§eJinghpo§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "sjo_cn":{
+            "name":"§eᠰᡞᠪᡝ ᡤᡞᠰᡠᠨ§r",
+            "region":"§eᡩᡠᠯᡳᠮᠪᠠᡳ ᡤᡠᡵᡠᠨ§r",
+            "bidirectional": false
+        },
+        "pcc_cn":{
+            "name":"§eHaausqyaix§r",
+            "region":"§eZungyguef§r",
+            "bidirectional": false
+        },
+        "dta_cn":{
+            "name":"§eDaghur§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "sce_cn":{
+            "name":"§eSarta kelen§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "orh_cn":{
+            "name":"§eАруӄен ургун§r",
+            "region":"§eЧжунго§r",
+            "bidirectional": false
+        },
+        "blr_cn":{
+            "name":"§eBlang§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "wbm_cn":{
+            "name":"§eVax (Loux Vax)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "vwa_cn":{
+            "name":"§eAi Vex (Loux Vax)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "prk_cn":{
+            "name":"§eBa Rāog (Loux Vax)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "pce_cn":{
+            "name":"§eBulei (Palaung)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "rbb_cn":{
+            "name":"§eRumai (Palaung)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        },
+        "pll_cn":{
+            "name":"§eShwe (Palaung)§r",
+            "region":"§eZhongguo§r",
+            "bidirectional": false
+        }
+    }
+}
