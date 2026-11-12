@@ -23,7 +23,7 @@ mnc_cn: 满语, ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ, Manchu
 
 ko_cn: 朝鲜语（延边）, 조선어, Korean (Yanbian)
 
-vi_cn: 京语, Tiếng Kinh, Jing Language (Vitenam)
+vi_cn: 京语, Tiếng Kinh, Jing Language (Vietnam)
 
 ko_kore: 朝鲜语（汉谚混写）, 朝鮮語（漢諺混寫）, Korean (mixed script)
 
