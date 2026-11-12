@@ -7,6 +7,21 @@
         "max_format": [ 97, 1 ]
     },
     "language":{
+        "bo_cn":{
+            "name":"§eབོད་ཀྱི་སྐད་§r",
+            "region":"§eརྒྱ་ནག་§r",
+            "bidirectional": false
+        },
+        "ii_cn":{
+            "name":"§eꆈꌠꉙ§r",
+            "region":"§eꍏꇩ§r",
+            "bidirectional": false
+        },
+        "hmn_cn":{
+            "name":"§eLol Hmongb§r",
+            "region":"§eZhongg§r",
+            "bidirectional": false
+        },
         "zha_cn":{
             "name":"§eVahcuengh§r",
             "region":"§eCungguek§r",
