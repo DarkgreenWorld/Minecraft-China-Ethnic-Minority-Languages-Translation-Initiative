@@ -151,6 +151,26 @@
             "name":"§eShwe (Palaung)§r",
             "region":"§eZhongguo§r",
             "bidirectional": false
+        },
+        "ko_cn":{
+            "name":"§e조선어§r",
+            "region":"§e중국§r",
+            "bidirectional": false
+        },
+        "vi_cn":{
+            "name":"§eTiếng Kinh§r",
+            "region":"§eTrung Quốc§r",
+            "bidirectional": false
+        },
+        "ko_kore":{
+            "name":"§e朝鮮語（漢諺混寫）§r",
+            "region":"§e中國§r",
+            "bidirectional": false
+        },
+        "vi_hani":{
+            "name":"§e㗂京（𡨸喃）§r",
+            "region":"§e中國§r",
+            "bidirectional": false
         }
     }
 }
