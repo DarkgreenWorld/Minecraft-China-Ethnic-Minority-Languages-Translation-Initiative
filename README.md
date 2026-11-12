@@ -63,7 +63,7 @@ pcc_cn: 布依语, Haausqyaix, Bouyei
 
 dta_cn: 达斡尔语, Daghur 
 
-sce_cn: 东乡语, Sarta Kelen
+sce_cn: 东乡语, Sarta Kelen, Santa
 
 orh_cn: 鄂伦春语（西里尔字母）, Аруӄен ургун, Oroqen
 
