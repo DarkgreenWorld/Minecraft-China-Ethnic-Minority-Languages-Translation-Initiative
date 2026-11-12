@@ -3,7 +3,11 @@
 
 这里是Minecraft中国少数民族语言翻译资源包的仓库，欢迎大家来一起贡献翻译!
 
+This is the repository for the Minecraft China ethnic minority languages translation resource pack. Everyone is welcome to contribute translations!
+
 本项目目前包含以下语言：
+
+This project currently includes the following Chinese varieties:
 
 bo_cn: 藏语 བོད་ཀྱི་སྐད་ Tibetan
 
