@@ -186,6 +186,11 @@
             "name":"§e㗂京（𡨸喃）§r",
             "region":"§e中國§r",
             "bidirectional": false
+        },
+        "lic_cn":{
+            "name":"§eHlai§r",
+            "region":"§eDongxgok§r",
+            "bidirectional": false
         }
     }
 }

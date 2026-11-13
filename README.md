@@ -35,13 +35,13 @@ bfs_cn: 南部白语, Baip ngvp zix (Dallit), Bai Language (Southern)
 
 bfc_cn: 北部白语, Baip ngvp zix (Bijiang), Bai Language (Northern)
 
-doc_cn: 北侗语, Gaeml (Tianzhu), Kam Language (Northern)
-
-kmc_cn: 南侗语, Gaeml, Kam Language
-
 cng_cn: 北羌语, Rrmearr (Mawo), Qiang (Northern)
 
 qxs_cn: 南羌语, Rrmearr (Taoping), Qiang (Southern)
+
+doc_cn: 北侗语, Gaeml (Tianzhu), Kam Language (Northern)
+
+kmc_cn: 南侗语, Gaeml, Kam Language
 
 ium_cn: 勉语, Iu Mienh, Iu Mien
 
@@ -54,6 +54,8 @@ khb_cn: 傣泐语, ᦅᧄᦺᦑᦟᦹᧉ, Tai Lü
 tdd_cn: 傣那语, ᥑᥣᥛᥰ ᥖᥭᥰ ᥘᥫᥴ, Tai Nüa
 
 swi_cn: 水语, Sui
+
+lic_cn: 黎语（哈方言）, Hlai
 
 kac_cn: 景颇语, Jinghpo
 
