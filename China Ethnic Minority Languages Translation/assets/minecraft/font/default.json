@@ -1,0 +1,36 @@
+{
+    "providers": [
+        {
+            "type": "caxton",
+            "regular": {
+                "file": "caxton:noto-serif-tibetan-subset.ttf",
+                "shadow_offset": 0.5,
+                "scale_factor": 1.5,
+                "shift": [0, 0]
+            }
+        },
+        {
+            "type": "caxton",
+            "regular": {
+                "file": "caxton:noto-sans-mongolian-subset.ttf",
+                "shadow_offset": 0.5,
+                "scale_factor": 1.5,
+                "shift": [0, 0]
+            }
+        },
+        {
+            "type":"ttf",
+            "file": "minecraft:noto-serif-tibetan-subset.ttf",
+            "oversample": 1,
+            "size": 7,
+            "shift": [0, 0]
+        },
+        {
+            "type":"ttf",
+            "file": "minecraft:noto-sans-mongolian-subset.ttf",
+            "oversample": 1,
+            "size": 7,
+            "shift": [0, 0]
+        }
+    ]
+}
