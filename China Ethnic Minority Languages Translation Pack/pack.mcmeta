@@ -7,11 +7,6 @@
         "max_format": [ 97, 1 ]
     },
     "language":{
-        "bo_cn":{
-            "name":"§eབོད་ཀྱི་སྐད་§r",
-            "region":"§eརྒྱ་ནག་§r",
-            "bidirectional": false
-        },
         "ii_cn":{
             "name":"§eꆈꌠꉙ§r",
             "region":"§eꍏꇩ§r",
