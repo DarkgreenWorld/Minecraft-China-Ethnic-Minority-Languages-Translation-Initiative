@@ -12,7 +12,7 @@ This is the repository for the Minecraft China ethnic minority languages transla
 This project does not include **Tibetan**. If you would like to contribute to the Tibetan translation, please join the [Discord channel](https://discord.gg/4VP7BRt9Bg) or the [QQ group](https://qm.qq.com/q/TWKk6oVaEM).
 
 #### 本项目目前包含以下语言：
-####This project currently includes the following Chinese varieties:
+#### This project currently includes the following Chinese varieties:
 
 ii_cn: 彝语（凉山）, ꆈꌠꉙ, Yi Language (Liangshan)
 
