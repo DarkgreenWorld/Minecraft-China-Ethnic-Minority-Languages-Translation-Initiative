@@ -2,6 +2,8 @@
 ## Minecraft China Ethnic Minority Languages Translation Resource Pack
 
 [![Crowdin](https://badges.crowdin.net/minecraft-china-ethnic-minority-languages-translation/localized.svg)](https://crowdin.com/project/minecraft-china-ethnic-minority-languages-translation)
+[![Discord](https://github.com/user-attachments/assets/2da65231-b5d6-4ab1-a0a8-508f4bf0c013)](https://discord.gg/9TbU3Rap4e) 
+[![QQ](https://github.com/user-attachments/assets/ec91ea77-14d2-4507-a54c-6199ef362a8e)]( https://qm.qq.com/q/xQhlT5gIYo)
 
 这里是Minecraft中国少数民族语言翻译资源包的仓库，欢迎大家来一起贡献翻译!
 
